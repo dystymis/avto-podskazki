@@ -1,0 +1,35 @@
+{
+  "name": "Авто подсказки",
+  "short_name": "Авто",
+  "description": "Автомобильные чек-листы и советы: подготовка авто к зиме, расход топлива, щётки, запах в салоне и проверки перед поездкой с допустимыми значениями и нормами.",
+  "start_url": "/avto-podskazki/",
+  "scope": "/avto-podskazki/",
+  "display": "standalone",
+  "background_color": "#1a1a1a",
+  "theme_color": "#c2410c",
+  "orientation": "portrait-primary",
+  "lang": "ru",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/avto-podskazki/assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/avto-podskazki/assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/avto-podskazki/assets/icons/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": [
+    "auto",
+    "lifestyle"
+  ]
+}
