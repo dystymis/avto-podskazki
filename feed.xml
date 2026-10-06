@@ -6,7 +6,14 @@
     <atom:link href="https://dystymis.github.io/avto-podskazki/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Автомобильные чек-листы и советы: подготовка авто к зиме, расход топлива, щётки, запах в салоне и проверки перед поездкой с допустимыми значениями и нормами.</description>
     <language>ru</language>
-    <lastBuildDate>Mon, 05 Oct 2026 06:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Замена тормозной жидкости Ford Mondeo: инструкция и сроки</title>
+      <link>https://dystymis.github.io/avto-podskazki/zamena-tormozhnoy-zhidkosti-ford-mondeo/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/zamena-tormozhnoy-zhidkosti-ford-mondeo/</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Замена тормозной жидкости форд мондео: сроки замены раз в 2 года, объём системы, порядок прокачки по диагональной схеме и проверка уровня на щупе.</description>
+    </item>
     <item>
       <title>Почему запотевают стекла в машине: причины и решения</title>
       <link>https://dystymis.github.io/avto-podskazki/zapotevanie-stekol-v-mashine/</link>
@@ -64,6 +71,13 @@
       <description>Как отмыть лобовое стекло в машине без разводов и полос: причины разводов, порядок мойки изнутри и снаружи, рабочие средства, состояние дворников и антидождь.</description>
     </item>
     <item>
+      <title>Европротокол при ДТП в 2026 году: порядок действий по шагам</title>
+      <link>https://dystymis.github.io/avto-podskazki/evroprotokol-2026-poryadok/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/evroprotokol-2026-poryadok/</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Оформление европротокола при ДТП 2026 порядок действий по шагам: лимит выплаты, фотофиксация с места, сроки подачи в страховую и когда нужен ГАИ.</description>
+    </item>
+    <item>
       <title>Chevrolet Camaro первого поколения: обзор и проблемы</title>
       <link>https://dystymis.github.io/avto-podskazki/chevrolet-camaro-pervoe-pokolenie/</link>
       <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/chevrolet-camaro-pervoe-pokolenie/</guid>
@@ -76,6 +90,27 @@
       <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/benzonasos-diagnostika-i-zamena/</guid>
       <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
       <description>Замена бензонасоса: признаки неисправности, проверка давления 2,5–4 бар, диагностика реле и проводки, план замены погружного насоса и прокачка.</description>
+    </item>
+    <item>
+      <title>Замена антифриза на Шеви Ниве: объём, сроки и инструкция</title>
+      <link>https://dystymis.github.io/avto-podskazki/zamena-antifriza-shevi-niva/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/zamena-antifriza-shevi-niva/</guid>
+      <pubDate>Sun, 04 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Замена антифриза шеви нива: объём системы 7,7 литра, сроки 2 года или 60 000 км, слить через кран на блоке, прокачать воздушную пробку и проверить уровень.</description>
+    </item>
+    <item>
+      <title>Удаление царапин на кузове карандашом: инструкция и советы</title>
+      <link>https://dystymis.github.io/avto-podskazki/udalenie-carapin-karandashom/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/udalenie-carapin-karandashom/</guid>
+      <pubDate>Sun, 04 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Удаление царапин на кузове карандашом: как выбрать средство под цвет ЛКП, подготовить поверхность, нанести состав, отполировать и когда карандаш не поможет.</description>
+    </item>
+    <item>
+      <title>Вибрация руля на скорости 120–140: как найти причину</title>
+      <link>https://dystymis.github.io/avto-podskazki/vibraciya-na-rule-120-140/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/vibraciya-na-rule-120-140/</guid>
+      <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Вибрация на руле на скорости 120 140: почему руль бьёт на трассе, пять проверок от балансировки до ступичного подшипника, допуски биения и цены на ремонт.</description>
     </item>
     <item>
       <title>Прогрев двигателя зимой: мифы и факты</title>
@@ -111,41 +146,6 @@
       <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/lampa-masla-migaet/</guid>
       <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
       <description>Почему мигает лампа масла на приборной панели: давление ниже 0,3–0,5 бар или низкий уровень. Первые действия, проверка датчика и когда ехать на СТО.</description>
-    </item>
-    <item>
-      <title>Шиномонтаж: когда менять колёса на сезон</title>
-      <link>https://dystymis.github.io/avto-podskazki/kogda-menyat-kolesa/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/kogda-menyat-kolesa/</guid>
-      <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Шиномонтаж: когда менять колёса — температура +7 °C стабильно, износ протектора 1,6 мм, балансировка и давление. Сроки переобувки осенью и весной.</description>
-    </item>
-    <item>
-      <title>Датчики парковки не работают: причины</title>
-      <link>https://dystymis.github.io/avto-podskazki/datchiki-parkovki-ne-rabotayut/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/datchiki-parkovki-ne-rabotayut/</guid>
-      <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Датчики парковки не работают: причины — лёд и грязь, обрыв питания, отказ пьезоэлемента, ошибка блока. Диагностика мультиметром за 30 минут.</description>
-    </item>
-    <item>
-      <title>Чистка салона автомобиля в домашних условиях</title>
-      <link>https://dystymis.github.io/avto-podskazki/chistka-salona-v-domashnih-usloviyah/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/chistka-salona-v-domashnih-usloviyah/</guid>
-      <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Чистка салона автомобиля в домашних условиях: сухая и влажная обработка ткани и кожи, ковры, потолок, средства и порядок работ за 2–3 часа без мойки.</description>
-    </item>
-    <item>
-      <title>Чип-тюнинг: плюсы и минусы для двигателя</title>
-      <link>https://dystymis.github.io/avto-podskazki/chiptuning-plyusy-i-minusy/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/chiptuning-plyusy-i-minusy/</guid>
-      <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Чип-тюнинг плюсы и минусы: +10–20% момента против роста расхода на 5–15%, риск по гарантии и ресурсу. Когда вмешательство в ЭБУ не оправдано.</description>
-    </item>
-    <item>
-      <title>Что будет, если залить бензин вместо дизеля</title>
-      <link>https://dystymis.github.io/avto-podskazki/benzinv-dizel-posledstviya/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/benzinv-dizel-posledstviya/</guid>
-      <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Что будет, если залить бензин вместо дизеля: мотор заглохнет через 10–100 м, смазка ТНВД разрушается. Симптомы, слить топливо, промывка бака и форсунок.</description>
     </item>
   </channel>
 </rss>
