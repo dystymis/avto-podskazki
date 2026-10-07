@@ -6,7 +6,14 @@
     <atom:link href="https://dystymis.github.io/avto-podskazki/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Автомобильные чек-листы и советы: подготовка авто к зиме, расход топлива, щётки, запах в салоне и проверки перед поездкой с допустимыми значениями и нормами.</description>
     <language>ru</language>
-    <lastBuildDate>Tue, 06 Oct 2026 06:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 06:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Торможение на скользкой дороге: техника и дистанция</title>
+      <link>https://dystymis.github.io/avto-podskazki/tormozhenie-na-skolzkoy/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/tormozhenie-na-skolzkoy/</guid>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Торможение на скользкой дороге: ступенчатая техника, работа с АБС, дистанция в секундах, тормозной путь на льду и подготовка колодок, дисков и жидкости к зиме</description>
+    </item>
     <item>
       <title>Замена тормозной жидкости Ford Mondeo: инструкция и сроки</title>
       <link>https://dystymis.github.io/avto-podskazki/zamena-tormozhnoy-zhidkosti-ford-mondeo/</link>
@@ -15,11 +22,25 @@
       <description>Замена тормозной жидкости форд мондео: сроки замены раз в 2 года, объём системы, порядок прокачки по диагональной схеме и проверка уровня на щупе.</description>
     </item>
     <item>
+      <title>Норма давления в шинах: таблица для авто и внедорожников</title>
+      <link>https://dystymis.github.io/avto-podskazki/davlenie-v-shinah-norma/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/davlenie-v-shinah-norma/</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Норма давления в шинах: таблица значений для легковых авто и внедорожников, где найти заводскую наклейку, как температура меняет показания и как мерить точно</description>
+    </item>
+    <item>
       <title>Почему запотевают стекла в машине: причины и решения</title>
       <link>https://dystymis.github.io/avto-podskazki/zapotevanie-stekol-v-mashine/</link>
       <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/zapotevanie-stekol-v-mashine/</guid>
       <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
       <description>Почему запотевают стекла в машине: причины и решения — влага из салона, точка росы, забитый салонный фильтр и рециркуляция. Быстрые действия и профилактика.</description>
+    </item>
+    <item>
+      <title>Замена ремня ГРМ: признаки износа и интервалы замены</title>
+      <link>https://dystymis.github.io/avto-podskazki/zamena-remnya-grm/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/zamena-remnya-grm/</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Замена ремня ГРМ: интервалы для большинства моделей, признаки износа, чем грозит обрыв на моторах с клапанным контактом, проверка меток и порядок работ по шагам</description>
     </item>
     <item>
       <title>Замена переднего амортизатора своими руками: пошагово</title>
@@ -64,6 +85,13 @@
       <description>Размеры колёс автомобилей: расшифровка маркировки 195/65 R15, индексы нагрузки и скорости, типовые размеры по классам авто, параметры диска ET и PCD.</description>
     </item>
     <item>
+      <title>Не заводится холодная машина на морозе: что делать</title>
+      <link>https://dystymis.github.io/avto-podskazki/ne-zavoditsya-na-moroze/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/ne-zavoditsya-na-moroze/</guid>
+      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Не заводится холодная машина что делать: причины по симптомам, проверка аккумулятора мультиметром, правила прикуривания на морозе и запуск дизеля</description>
+    </item>
+    <item>
       <title>Как отмыть лобовое стекло в машине без разводов и полос</title>
       <link>https://dystymis.github.io/avto-podskazki/kak-otmyt-lobovoe-steklo-bez-razvodov/</link>
       <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/kak-otmyt-lobovoe-steklo-bez-razvodov/</guid>
@@ -106,46 +134,18 @@
       <description>Удаление царапин на кузове карандашом: как выбрать средство под цвет ЛКП, подготовить поверхность, нанести состав, отполировать и когда карандаш не поможет.</description>
     </item>
     <item>
-      <title>Вибрация руля на скорости 120–140: как найти причину</title>
-      <link>https://dystymis.github.io/avto-podskazki/vibraciya-na-rule-120-140/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/vibraciya-na-rule-120-140/</guid>
-      <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Вибрация на руле на скорости 120 140: почему руль бьёт на трассе, пять проверок от балансировки до ступичного подшипника, допуски биения и цены на ремонт.</description>
+      <title>Объем масла в двигателе: как рассчитать по марке авто</title>
+      <link>https://dystymis.github.io/avto-podskazki/obem-masla-v-dvigatele/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/obem-masla-v-dvigatele/</guid>
+      <pubDate>Sun, 04 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Объем масла в двигателе: таблица по классам моторов, где найти заводское значение, как проверить уровень на щупе, чем опасны перелив и недолив и норма расхода</description>
     </item>
     <item>
-      <title>Прогрев двигателя зимой: мифы и факты</title>
-      <link>https://dystymis.github.io/avto-podskazki/progreve-dvigatelya-zimoy-mify/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/progreve-dvigatelya-zimoy-mify/</guid>
-      <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Прогрев двигателя зимой мифы: сколько минут греть на месте, вреден ли холодный старт и как ехать, чтобы мотор вышел на 80–90 °C без износа.</description>
-    </item>
-    <item>
-      <title>Подключение мультимедиа в машине своими руками</title>
-      <link>https://dystymis.github.io/avto-podskazki/podklyuchenie-multimedia-v-mashine/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/podklyuchenie-multimedia-v-mashine/</guid>
-      <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Подключение мультимедиа в машине: выбор 1 DIN и 2 DIN, проводка и предохранитель 10–15 А, USB, Bluetooth и CarPlay, пошаговая установка без ошибок.</description>
-    </item>
-    <item>
-      <title>Как очистить стекло от реагента зимой</title>
-      <link>https://dystymis.github.io/avto-podskazki/ochistka-stekla-ot-reagenta/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/ochistka-stekla-ot-reagenta/</guid>
-      <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Как очистить стекло от реагента зимой: белый налёт и разводы снимают омывайкой с антифризом и микрофиброй, не скребком. Порядок без царапин и бликов.</description>
-    </item>
-    <item>
-      <title>Не работает стеклоочиститель: причины</title>
-      <link>https://dystymis.github.io/avto-podskazki/ne-rabotaet-stekloochistitel/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/ne-rabotaet-stekloochistitel/</guid>
-      <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Не работает стеклоочиститель: причины — предохранитель, реле, моторчик, переключатель или зажатые щётки. Диагностика от кнопки до мотора за 20 минут.</description>
-    </item>
-    <item>
-      <title>Почему мигает лампа масла на приборной панели</title>
-      <link>https://dystymis.github.io/avto-podskazki/lampa-masla-migaet/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/lampa-masla-migaet/</guid>
-      <pubDate>Sat, 03 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Почему мигает лампа масла на приборной панели: давление ниже 0,3–0,5 бар или низкий уровень. Первые действия, проверка датчика и когда ехать на СТО.</description>
+      <title>Индикатор check engine горит: что делать и можно ли ехать</title>
+      <link>https://dystymis.github.io/avto-podskazki/gorel-chek-engine/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/gorel-chek-engine/</guid>
+      <pubDate>Sun, 04 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Если горит check engine: причины мигания и постоянного свечения, когда можно ехать до сервиса, как считать коды OBD-II и проверить причину самому</description>
     </item>
   </channel>
 </rss>
