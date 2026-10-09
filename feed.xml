@@ -6,13 +6,41 @@
     <atom:link href="https://dystymis.github.io/avto-podskazki/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Автомобильные чек-листы и советы: подготовка авто к зиме, расход топлива, щётки, запах в салоне и проверки перед поездкой с допустимыми значениями и нормами.</description>
     <language>ru</language>
-    <lastBuildDate>Wed, 07 Oct 2026 06:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Глубокие царапины на кузове авто: ППР или полировка</title>
+      <link>https://dystymis.github.io/avto-podskazki/glubokie-crapiny-na-kuzove/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/glubokie-crapiny-na-kuzove/</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Глубокие царапины на кузове авто: как отличить скол от царапины, когда нужна полировка, когда ППР, ориентировочные цены локального ремонта и пошаговый план</description>
+    </item>
+    <item>
+      <title>Ресурс свечей зажигания: когда менять и какие выбрать</title>
+      <link>https://dystymis.github.io/avto-podskazki/resurs-svechey-zazhiganiya/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/resurs-svechey-zazhiganiya/</guid>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Ресурс свечей зажигания по типам электродов: иридий, платина, никель; зазор, сопротивление, момент затяжки, признаки износа и правила выбора для двигателя</description>
+    </item>
     <item>
       <title>Зарядка аккумулятора дома: как правильно заряжать АКБ</title>
       <link>https://dystymis.github.io/avto-podskazki/zaryadka-akkumulyatora-doma/</link>
       <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/zaryadka-akkumulyatora-doma/</guid>
       <pubDate>Wed, 07 Oct 2026 06:00:00 GMT</pubDate>
       <description>Зарядка аккумулятора дома: какой ток выбрать для батареи 60 Ач, сколько часов заряжать, правила безопасности в квартире и признаки полной готовности</description>
+    </item>
+    <item>
+      <title>Замена тормозных дисков: как заменить самому в гараже</title>
+      <link>https://dystymis.github.io/avto-podskazki/zamena-tormoznyh-diskov-svoimi-rukami/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/zamena-tormoznyh-diskov-svoimi-rukami/</guid>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Замена тормозных дисков своими руками: замер толщины и биения, возврат поршня суппорта, моменты затяжки, прокачка контура и правила приработки новых дисков</description>
+    </item>
+    <item>
+      <title>Замена фары на машине своими руками: пошаговая работа</title>
+      <link>https://dystymis.github.io/avto-podskazki/zamena-faryi-svoimi-rukami/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/zamena-faryi-svoimi-rukami/</guid>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Замена фары на машине своими руками: снятие бампера, крепёж и моменты затяжки, регулировка света по стене, проверка электрики и установка новых фар</description>
     </item>
     <item>
       <title>Торможение на скользкой дороге: техника и дистанция</title>
@@ -29,11 +57,25 @@
       <description>Замена тормозной жидкости форд мондео: сроки замены раз в 2 года, объём системы, порядок прокачки по диагональной схеме и проверка уровня на щупе.</description>
     </item>
     <item>
+      <title>Можно ли включать печку на холодный двигатель: разбираемся</title>
+      <link>https://dystymis.github.io/avto-podskazki/vkluchenie-pechki-na-holodnom-dvigatele/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/vkluchenie-pechki-na-holodnom-dvigatele/</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Можно ли включать печку на холодный двигатель: влияние на прогрев, нагрузка на помпу, рекомендации по температуре ОЖ, зимние особенности и мифы о вреде</description>
+    </item>
+    <item>
       <title>Пробило колесо на ходу: что делать пошагово на дороге</title>
       <link>https://dystymis.github.io/avto-podskazki/probilo-koleso-chto-delat/</link>
       <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/probilo-koleso-chto-delat/</guid>
       <pubDate>Tue, 06 Oct 2026 06:00:00 GMT</pubDate>
       <description>Пробило колесо что делать на ходу: как безопасно остановиться, менять колесо или ехать на запаске, инструменты, момент затяжки гаек и порядок действий на дороге</description>
+    </item>
+    <item>
+      <title>Моторчик стеклоочистителя гудит: диагностика и замена</title>
+      <link>https://dystymis.github.io/avto-podskazki/motorchik-stekloochistitelya-gudit/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/motorchik-stekloochistitelya-gudit/</guid>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Моторчик стеклоочистителя гудит: причины шума, проверка тока и напряжения, смазка редуктора, замена щёток и электродвигателя по шагам, признаки износа узла</description>
     </item>
     <item>
       <title>Норма давления в шинах: таблица для авто и внедорожников</title>
@@ -99,53 +141,11 @@
       <description>Размеры колёс автомобилей: расшифровка маркировки 195/65 R15, индексы нагрузки и скорости, типовые размеры по классам авто, параметры диска ET и PCD.</description>
     </item>
     <item>
-      <title>Полироль для удаления царапин на кузове: как выбрать</title>
-      <link>https://dystymis.github.io/avto-podskazki/poliroul-dlya-tsarapin/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/poliroul-dlya-tsarapin/</guid>
+      <title>Проверка подогрева сиденья мультиметром: диагностика ТЭНа</title>
+      <link>https://dystymis.github.io/avto-podskazki/proverka-podogreva-sideniy/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/proverka-podogreva-sideniy/</guid>
       <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Полироль для удаления царапин: как отличить скол от царапины до грунта, выбор состава по абразивности, пошаговая обработка кузова и ограничения по толщине лака</description>
-    </item>
-    <item>
-      <title>Плавают обороты на холостом ходу: причины и лечение</title>
-      <link>https://dystymis.github.io/avto-podskazki/plavayut-oboroty-kholostogo/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/plavayut-oboroty-kholostogo/</guid>
-      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Почему плавают обороты на холостом ходу: подсос воздуха, неисправный РХХ, забитые форсунки и датчик массового расхода — диагностика, норма оборотов и ремонт</description>
-    </item>
-    <item>
-      <title>Не заводится холодная машина на морозе: что делать</title>
-      <link>https://dystymis.github.io/avto-podskazki/ne-zavoditsya-na-moroze/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/ne-zavoditsya-na-moroze/</guid>
-      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Не заводится холодная машина что делать: причины по симптомам, проверка аккумулятора мультиметром, правила прикуривания на морозе и запуск дизеля</description>
-    </item>
-    <item>
-      <title>Как отмыть лобовое стекло в машине без разводов и полос</title>
-      <link>https://dystymis.github.io/avto-podskazki/kak-otmyt-lobovoe-steklo-bez-razvodov/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/kak-otmyt-lobovoe-steklo-bez-razvodov/</guid>
-      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Как отмыть лобовое стекло в машине без разводов и полос: причины разводов, порядок мойки изнутри и снаружи, рабочие средства, состояние дворников и антидождь.</description>
-    </item>
-    <item>
-      <title>Европротокол при ДТП в 2026 году: порядок действий по шагам</title>
-      <link>https://dystymis.github.io/avto-podskazki/evroprotokol-2026-poryadok/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/evroprotokol-2026-poryadok/</guid>
-      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Оформление европротокола при ДТП 2026 порядок действий по шагам: лимит выплаты, фотофиксация с места, сроки подачи в страховую и когда нужен ГАИ.</description>
-    </item>
-    <item>
-      <title>Chevrolet Camaro первого поколения: обзор и проблемы</title>
-      <link>https://dystymis.github.io/avto-podskazki/chevrolet-camaro-pervoe-pokolenie/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/chevrolet-camaro-pervoe-pokolenie/</guid>
-      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Chevrolet Camaro первого поколения (1967–1969): платформа F-body, двигатели 230–396, комплектации RS, SS и Z/28, типичные проблемы кузова и чек-лист покупки.</description>
-    </item>
-    <item>
-      <title>Замена бензонасоса: диагностика и пошаговый план работ</title>
-      <link>https://dystymis.github.io/avto-podskazki/benzonasos-diagnostika-i-zamena/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/benzonasos-diagnostika-i-zamena/</guid>
-      <pubDate>Mon, 05 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Замена бензонасоса: признаки неисправности, проверка давления 2,5–4 бар, диагностика реле и проводки, план замены погружного насоса и прокачка.</description>
+      <description>Проверка подогрева сиденья мультиметром: сопротивление ТЭНа, напряжение на разъёме, изоляция обмотки, поиск обрыва и таблица результатов для большинства моделей</description>
     </item>
   </channel>
 </rss>
