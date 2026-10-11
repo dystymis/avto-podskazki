@@ -2,10 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://dystymis.github.io/avto-podskazki/</loc>
-    <lastmod>2026-10-09</lastmod>
+    <lastmod>2026-10-10</lastmod>
   </url>
   <url>
     <loc>https://dystymis.github.io/avto-podskazki/about/</loc>
+    <lastmod>2026-10-10</lastmod>
+  </url>
+  <url>
+    <loc>https://dystymis.github.io/avto-podskazki/polirovka-far-shlifmashinkoy/</loc>
+    <lastmod>2026-10-10</lastmod>
+  </url>
+  <url>
+    <loc>https://dystymis.github.io/avto-podskazki/support-niva-2121/</loc>
     <lastmod>2026-10-09</lastmod>
   </url>
   <url>
@@ -17,6 +25,10 @@
     <lastmod>2026-10-09</lastmod>
   </url>
   <url>
+    <loc>https://dystymis.github.io/avto-podskazki/zamena-tsilindra-scepleniya-2107/</loc>
+    <lastmod>2026-10-08</lastmod>
+  </url>
+  <url>
     <loc>https://dystymis.github.io/avto-podskazki/resurs-svechey-zazhiganiya/</loc>
     <lastmod>2026-10-08</lastmod>
   </url>
@@ -25,11 +37,19 @@
     <lastmod>2026-10-08</lastmod>
   </url>
   <url>
+    <loc>https://dystymis.github.io/avto-podskazki/gbo-2-pokoleniya-na-inzhektor/</loc>
+    <lastmod>2026-10-08</lastmod>
+  </url>
+  <url>
     <loc>https://dystymis.github.io/avto-podskazki/zaryadka-akkumulyatora-doma/</loc>
     <lastmod>2026-10-07</lastmod>
   </url>
   <url>
     <loc>https://dystymis.github.io/avto-podskazki/zamena-tormoznyh-diskov-svoimi-rukami/</loc>
+    <lastmod>2026-10-07</lastmod>
+  </url>
+  <url>
+    <loc>https://dystymis.github.io/avto-podskazki/zamena-maslosyemnyh-kolpachkov/</loc>
     <lastmod>2026-10-07</lastmod>
   </url>
   <url>
@@ -49,7 +69,15 @@
     <lastmod>2026-10-07</lastmod>
   </url>
   <url>
+    <loc>https://dystymis.github.io/avto-podskazki/lyuft-rulya-vaz-2107/</loc>
+    <lastmod>2026-10-07</lastmod>
+  </url>
+  <url>
     <loc>https://dystymis.github.io/avto-podskazki/zamena-tormozhnoy-zhidkosti-ford-mondeo/</loc>
+    <lastmod>2026-10-06</lastmod>
+  </url>
+  <url>
+    <loc>https://dystymis.github.io/avto-podskazki/zamena-grm-akcent/</loc>
     <lastmod>2026-10-06</lastmod>
   </url>
   <url>
@@ -66,6 +94,10 @@
   </url>
   <url>
     <loc>https://dystymis.github.io/avto-podskazki/pedal-tormoza-stala-tverdoy/</loc>
+    <lastmod>2026-10-06</lastmod>
+  </url>
+  <url>
+    <loc>https://dystymis.github.io/avto-podskazki/oprobanie-tormozov/</loc>
     <lastmod>2026-10-06</lastmod>
   </url>
   <url>
@@ -101,6 +133,10 @@
     <lastmod>2026-10-05</lastmod>
   </url>
   <url>
+    <loc>https://dystymis.github.io/avto-podskazki/stuk-v-podveske-granty/</loc>
+    <lastmod>2026-10-05</lastmod>
+  </url>
+  <url>
     <loc>https://dystymis.github.io/avto-podskazki/seryy-dym-iz-vyhlopnoy-truby/</loc>
     <lastmod>2026-10-05</lastmod>
   </url>
@@ -114,6 +150,10 @@
   </url>
   <url>
     <loc>https://dystymis.github.io/avto-podskazki/proverka-datchika-parktronika/</loc>
+    <lastmod>2026-10-05</lastmod>
+  </url>
+  <url>
+    <loc>https://dystymis.github.io/avto-podskazki/prokachka-tormozov-niva/</loc>
     <lastmod>2026-10-05</lastmod>
   </url>
   <url>
