@@ -6,7 +6,28 @@
     <atom:link href="https://dystymis.github.io/avto-podskazki/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Автомобильные чек-листы и советы: подготовка авто к зиме, расход топлива, щётки, запах в салоне и проверки перед поездкой с допустимыми значениями и нормами.</description>
     <language>ru</language>
-    <lastBuildDate>Sat, 10 Oct 2026 06:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 06:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Замена антифриза на Лада Ларгус: пошаговая инструкция</title>
+      <link>https://dystymis.github.io/avto-podskazki/zamena-antifriza-largus/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/zamena-antifriza-largus/</guid>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Замена антифриза на ларгусе: объём системы охлаждения, тип Renault Type D, порядок работ со сливом и заливкой, удаление воздушных пробок и проверка уровня</description>
+    </item>
+    <item>
+      <title>Карбюратор и инжектор: в чём разница и как выбрать лучше</title>
+      <link>https://dystymis.github.io/avto-podskazki/karbyurator-i-inzhektor-raznica/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/karbyurator-i-inzhektor-raznica/</guid>
+      <pubDate>Sun, 11 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Карбюратор и инжектор: в чём разница по точности смеси, расходу, зимнему пуску и экологии, плюсы и минусы каждого решения, что выбрать для города</description>
+    </item>
+    <item>
+      <title>Когда менять ремень ГРМ на Лада Весте: сроки и признаки</title>
+      <link>https://dystymis.github.io/avto-podskazki/remen-grm-vesta-kogda-menyat/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/remen-grm-vesta-kogda-menyat/</guid>
+      <pubDate>Sat, 10 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Когда менять ремень ГРМ на Лада Весте: интервал по пробегу, признаки износа, проверка натяжения, комплект с роликами и что делать при обрыве ремня</description>
+    </item>
     <item>
       <title>Полировка фар шлифмашинкой своими руками: пошагово</title>
       <link>https://dystymis.github.io/avto-podskazki/polirovka-far-shlifmashinkoy/</link>
@@ -29,6 +50,13 @@
       <description>Как проверить аккумулятор нагрузочной вилкой: методика, нормы напряжения под нагрузкой, ток и время испытания, таблица результатов и температурные поправки</description>
     </item>
     <item>
+      <title>Насос для откачки масла из двигателя: виды и применение</title>
+      <link>https://dystymis.github.io/avto-podskazki/nasos-dlya-otkachki-masla-iz-dvigatelya/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/nasos-dlya-otkachki-masla-iz-dvigatelya/</guid>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Насос для откачки масла из двигателя: ручной, электрический или пневматический помпа, как выбрать объём и вязкость, откачка через щуп и порядок работы</description>
+    </item>
+    <item>
       <title>Глубокие царапины на кузове авто: ППР или полировка</title>
       <link>https://dystymis.github.io/avto-podskazki/glubokie-crapiny-na-kuzove/</link>
       <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/glubokie-crapiny-na-kuzove/</guid>
@@ -41,6 +69,13 @@
       <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/zamena-tsilindra-scepleniya-2107/</guid>
       <pubDate>Thu, 08 Oct 2026 06:00:00 GMT</pubDate>
       <description>Замена цилиндра сцепления ВАЗ 2107: признаки неисправности, отличие от рабочего, инструмент, пошаговая работа, прокачка гидропривода и проверка хода педали</description>
+    </item>
+    <item>
+      <title>Стуки в подвеске Ауди: причины и что проверить самому</title>
+      <link>https://dystymis.github.io/avto-podskazki/stuki-v-podveske-audi/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/stuki-v-podveske-audi/</guid>
+      <pubDate>Thu, 08 Oct 2026 06:00:00 GMT</pubDate>
+      <description>Стуки в подвеске ауди: причины в 90% случаев — стойки стабилизатора, сайлентблоки рычагов и опоры стоек: как отличить звук по месту и проверить самому</description>
     </item>
     <item>
       <title>Ресурс свечей зажигания: когда менять и какие выбрать</title>
@@ -106,46 +141,11 @@
       <description>Торможение на скользкой дороге: ступенчатая техника, работа с АБС, дистанция в секундах, тормозной путь на льду и подготовка колодок, дисков и жидкости к зиме</description>
     </item>
     <item>
-      <title>Как настроить зеркала заднего вида: пошаговая инструкция</title>
-      <link>https://dystymis.github.io/avto-podskazki/nastroyka-zerkal-zadnego-vista/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/nastroyka-zerkal-zadnego-vista/</guid>
+      <title>Плавают обороты холостого хода на инжекторе: причины</title>
+      <link>https://dystymis.github.io/avto-podskazki/plavayut-oboroty-holostogo-inzhektor/</link>
+      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/plavayut-oboroty-holostogo-inzhektor/</guid>
       <pubDate>Wed, 07 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Как настроить зеркала заднего вида: пошаговая инструкция для боковых и салонного зеркала, слепые зоны, тест парковки, ошибки регулировки и проверка обзора</description>
-    </item>
-    <item>
-      <title>Люфт руля на ВАЗ 2107: причины и способы устранения</title>
-      <link>https://dystymis.github.io/avto-podskazki/lyuft-rulya-vaz-2107/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/lyuft-rulya-vaz-2107/</guid>
-      <pubDate>Wed, 07 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Люфт руля на ВАЗ 2107: как замерить свободный ход, наконечники и рулевые тяги, рулевой механизм, регулировка червяка и стоимость ремонта рулевого управления</description>
-    </item>
-    <item>
-      <title>Замена тормозной жидкости Ford Mondeo: инструкция и сроки</title>
-      <link>https://dystymis.github.io/avto-podskazki/zamena-tormozhnoy-zhidkosti-ford-mondeo/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/zamena-tormozhnoy-zhidkosti-ford-mondeo/</guid>
-      <pubDate>Tue, 06 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Замена тормозной жидкости форд мондео: сроки замены раз в 2 года, объём системы, порядок прокачки по диагональной схеме и проверка уровня на щупе.</description>
-    </item>
-    <item>
-      <title>Замена ремня ГРМ на Хендай Акцент: сроки и порядок</title>
-      <link>https://dystymis.github.io/avto-podskazki/zamena-grm-akcent/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/zamena-grm-akcent/</guid>
-      <pubDate>Tue, 06 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Замена ГРМ на Хендай Акцент: интервалы по пробегу, инструмент, выставление меток на 1.4 и 1.6, пошаговая работа, натяжение ремня и проверка после сборки</description>
-    </item>
-    <item>
-      <title>Можно ли включать печку на холодный двигатель: разбираемся</title>
-      <link>https://dystymis.github.io/avto-podskazki/vkluchenie-pechki-na-holodnom-dvigatele/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/vkluchenie-pechki-na-holodnom-dvigatele/</guid>
-      <pubDate>Tue, 06 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Можно ли включать печку на холодный двигатель: влияние на прогрев, нагрузка на помпу, рекомендации по температуре ОЖ, зимние особенности и мифы о вреде</description>
-    </item>
-    <item>
-      <title>Пробило колесо на ходу: что делать пошагово на дороге</title>
-      <link>https://dystymis.github.io/avto-podskazki/probilo-koleso-chto-delat/</link>
-      <guid isPermaLink="true">https://dystymis.github.io/avto-podskazki/probilo-koleso-chto-delat/</guid>
-      <pubDate>Tue, 06 Oct 2026 06:00:00 GMT</pubDate>
-      <description>Пробило колесо что делать на ходу: как безопасно остановиться, менять колесо или ехать на запаске, инструменты, момент затяжки гаек и порядок действий на дороге</description>
+      <description>Плавают обороты холостого хода на инжекторе: подсос воздуха, неисправный РХХ, загрязнённый дроссель, ДМРВ и давление топлива — как проверить и устранить</description>
     </item>
   </channel>
 </rss>
